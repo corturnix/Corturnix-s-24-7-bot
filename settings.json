@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "247test.aternos.me:22194",
+    "ip": "247test.aternos.me",
     "port": 22194,
     "version": "",
     "try-creative": false
