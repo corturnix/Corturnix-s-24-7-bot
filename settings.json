@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "RelicSMP-S1.aternos.me:30881",
+    "ip": "RelicSMP-S1.aternos.me",
     "port": 30881,
     "version": "",
     "try-creative": false
