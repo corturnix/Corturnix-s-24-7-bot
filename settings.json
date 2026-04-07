@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "247test.aternos.me",
-    "port": 22194,
+    "ip": "RelicSMP-S1.aternos.me:30881",
+    "port": 30881,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
+        "dont hack",
         "Subscribe to CorturnixMC!",
-        "I like to play Minecraft!"
+        "Report people for hacking in tickets"
       ]
     },
     "chat-log": true,
